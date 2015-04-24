@@ -12,7 +12,7 @@ body {
 
 .heading:after {
   content: "";
-  display: red;
+  display: black;
   clear: both; }
 
 h1.title {
